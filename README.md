@@ -1,4 +1,4 @@
-# Sperated-Batch-Ensemble-DQN
+# Seperated-Batch-Ensemble-DQN
 
 run
 ```
